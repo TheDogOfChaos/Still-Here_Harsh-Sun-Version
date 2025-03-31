@@ -1,5 +1,5 @@
 ﻿{
-	"angleData": [0, 0, 45, 270, 0, 270, 0, 90, 45, 270, 0, 270, 0, 90, 45, 270, 0, 270, 0, 90, 45, 270, 270, 315, 90, 0, 90, 45, 270, 315, 90, 0, 270, 0, 315, 90, 90, 45, 270, 0, 90, 45, 270, 315, 90, 0, 270, 0, 45, 180, 270, 0, 45, 270, 45, 270, 45, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 90, 999, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 0, 90, 90, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 270, 270, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 90, 270, 0, -90, 0, 270, 270, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
+	"angleData": [0, 0, 45, 270, 0, 270, 0, 90, 45, 270, 0, 270, 0, 90, 45, 270, 0, 270, 0, 90, 45, 270, 270, 315, 90, 0, 90, 45, 270, 315, 90, 0, 270, 0, 315, 90, 90, 45, 270, 0, 90, 45, 270, 315, 90, 0, 270, 0, 45, 180, 270, 0, 45, 270, 45, 270, 45, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 90, 999, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 90, 0, 270, 270, 0, 90, 0, 0, 90, 0, 90, 90, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 270, 270, 0, 90, 0, 90, 0, 270, 270, 0, 270, 180, 270, 0, 270, 270, 0, 90, 0, 90, 270, 0, -90, 0, 270, 270, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 90, 0, -180, 3.201651E-06, -180, 0, 270, 0, 270, 0, 90, 0, 270, 0, -180, 270, 270, 0, 0, 0, -180, 3.201651E-06, 270, 0, 270, 0, 0, 0, 0, 270, 180, 180, 270, 3.201651E-06, 0, 0, 270, 0, 0, 270, 270, 270], 
 	"settings":
 	{
 		"version": 15 ,
@@ -23,7 +23,7 @@
 		"requiredMods": [],
 		"songFilename": "stillHere_(harshSun).ogg", 
 		"bpm": 88.88, 
-		"volume": 100, 
+		"volume": 50, 
 		"offset": 25050, 
 		"pitch": 100, 
 		"hitsound": "Shaker", 
@@ -181,11 +181,37 @@
 		{ "floor": 269, "eventType": "Twirl" },
 		{ "floor": 277, "eventType": "SetSpeed", "speedType": "Multiplier", "beatsPerMinute": 100, "bpmMultiplier": 2, "angleOffset": 0},
 		{ "floor": 285, "eventType": "SetSpeed", "speedType": "Multiplier", "beatsPerMinute": 100, "bpmMultiplier": 2, "angleOffset": 0},
-		{ "floor": 296, "eventType": "Pause", "duration": 4, "countdownTicks": 0, "angleCorrectionDir": "Backward"},
-		{ "floor": 296, "eventType": "SetFilter", "filter": "Glitch", "enabled": true, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
-		{ "floor": 296, "eventType": "SetSpeed", "speedType": "Multiplier", "beatsPerMinute": 100, "bpmMultiplier": 0.25, "angleOffset": 0}
+		{ "floor": 296, "eventType": "Pause", "duration": 4, "countdownTicks": 3, "angleCorrectionDir": "Backward"},
+		{ "floor": 296, "eventType": "SetFilter", "filter": "Aberration", "enabled": true, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
+		{ "floor": 296, "eventType": "MoveDecorations", "duration": 0, "tag": "shutUp_text", "positionOffset": [null, null], "opacity": 100, "parallaxOffset": [null, null], "angleOffset": 0, "ease": "Linear", "eventTag": ""},
+		{ "floor": 297, "eventType": "MoveDecorations", "duration": 0, "tag": "shutUp_text", "visible": false, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
+		{ "floor": 297, "eventType": "SetSpeed", "speedType": "Multiplier", "beatsPerMinute": 100, "bpmMultiplier": 0.5, "angleOffset": 0},
+		{ "floor": 297, "eventType": "SetFilter", "filter": "Aberration", "enabled": false, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
+		{ "floor": 299, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 300, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 300, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 301, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 301, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 302, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 302, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 303, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 308, "eventType": "Twirl" },
+		{ "floor": 310, "eventType": "Twirl" },
+		{ "floor": 311, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, -1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 312, "eventType": "PositionTrack", "positionOffset": [0, -1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 312, "eventType": "Twirl" },
+		{ "floor": 317, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 1], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 318, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 318, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 1, "positionOffset": [null, 2], "angleOffset": 0, "ease": "Linear", "maxVfxOnly": false, "eventTag": ""},
+		{ "floor": 319, "eventType": "Twirl" },
+		{ "floor": 319, "eventType": "PositionTrack", "positionOffset": [0, 2], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
+		{ "floor": 321, "eventType": "Twirl" },
+		{ "floor": 322, "eventType": "Twirl" },
+		{ "floor": 329, "eventType": "Twirl" },
+		{ "floor": 330, "eventType": "Twirl" }
 	],
 	"decorations":
 	[
+		{ "floor": 296, "eventType": "AddText", "visible": false, "locked": true, "decText": "SHUT UP", "tag": "shutUp_text", "font": "Georgia", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 0], "rotation": 0, "lockRotation": true, "scale": [400, 400], "lockScale": true, "color": "ff0000ff", "opacity": 0, "depth": -1, "parallax": [0, 0], "parallaxOffset": [0, 0] }
 	]
 }

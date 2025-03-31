@@ -45,7 +45,7 @@
 		"beatsBehind": 3,
 		"backgroundColor": "000000", 
 		"showDefaultBGIfNoImage": true, 
-		"showDefaultBGTile": true, 
+		"showDefaultBGTile": false, 
 		"defaultBGTileColor": "101121", 
 		"defaultBGShapeType": "Disabled", 
 		"defaultBGShapeColor": "ffffff", 
